@@ -47,3 +47,6 @@ public class HiveJdbcTest {
         conn.close();
     }
 }
+/*
+*这是一段新注释
+*/
